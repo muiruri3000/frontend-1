@@ -49,7 +49,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles -->
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+<!-- **Note: These are just examples. Delete this note and replace the list above with your own choices** -->
 
 ### What I learned
 Some Recap of html, css. 
@@ -92,7 +92,7 @@ Media Queries are an area I will be looking more closely at.
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@muiruri3000](https://www.frontendmentor.io/profile/muiruri3000)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+<!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
